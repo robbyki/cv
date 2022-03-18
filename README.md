@@ -1,37 +1,109 @@
-## Welcome to GitHub Pages
+## Robby Kiskanyan
 
-You can use the [editor on GitHub](https://github.com/robbyki/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software Engineer, Tooling Developer and Communicator passionate about building things that matter_<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:robbmk@gmail.com) / [Website](https://robkiskanyan.com/) / [LinkedIn](https://www.linkedin.com/in/robkiskanyan/) / [GitHub](https://github.com/robbyki) / [Twitter](https://twitter.com/robbyki)
 
-### Markdown
+## 🏢 Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Developer: Cloud Platfrom Tools @ [IBM](https://www.ibm.com/)** _(May 2016 - Ongoing)_ 
+  - Lead tooling developer, evangelist and architect for marketing ETL jobs
+  - Drive decision-making on tooling and architecture for all engineers within Analytics & Insights marketing team
+  - Mentored, taught and trained over 30 developers
+  - Designed, developed and launched cloud-native build environments and tooling for testing, containerization & cloud deployments
+  - Trained and on-boarded 20+ Developers in Marketing team
+  - Built production development environments and frameworks for deploying applications to Kubernetes
+  - Recipient of IBM's highest technical award (OTAA) for contributions to data processing platform
+  - **Stack:** Scala, Spark, sbt, Kubernetes, Docker/Podman, Openshift, Tekton, Airflow, Python, Argo
+<br>
 
-```markdown
-Syntax highlighted code block
+**Principal Developer: Reporting & Analytics @ [The Weather Channel](https://www.weather.com)** _(Aug 2013 - May 2016)_ <br>
+  - Worked with marketers, analysts and engineers to scope and translate business requirements into visualizations, tooling and prototyping modelling viability for larger scale integrations
+  - Helped with configurations and provisioning of data science focused EC2 and EMR systems
+  - Trained IBM Data Science on interactive analytics with Jupyter on cloud
+  - Built extensive collection of data transformation utilities with python SDK for analytics on cloud workloads
+  - Redshift SQL optimizations and programming for analysis against S3 data
+  - **Stack:** AWS, EMR, EC2, S3, Redshift, Python, Pandas, Jupyter, Java
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+**Lead Business Intelligence Developer @ [Yahoo!](https://www.yahoo.com)** _(May 2012 - May 2013)_ <br>
+  - Technical Account Manager and Solution Partner for Right Media Advertising Exchange
+  - Lead Analytics Developer on exchange serving +11B daily impressions
+  - Supported Partner Managers by building custom analytics
+  - Built and maintained data processing automations with Python and Tablea to populate data warehousing with the relevant restful API data extractions from HDFS and MySQL integrations for downstream visualizations
+  - **Stack:** Python, MySQL, Hadoop, Redhat Linux, Tableau, Rest API
+<br>
 
-- Bulleted
-- List
+**Technical Account Manager @ [Yahoo!](https://www.yahoo.com)** _(May 2011 - May 2012)_ <br>
+  - Consultant and technical solutions partner, driving strategy, troubleshooting and feature integrations for ad tech clients
+  - Built data-intensive approach to client upsell and optimizations through custom ETL pipelines and automation
+  - **Stack:** Python, MySQL, Hadoop, Redhat Linux, Tableau, Rest API
+<br>
 
-1. Numbered
-2. List
+**Technical Content Editor @ [WSJ!](https://www.wsj.com)** _(May 2006 - Oct 2010)_ <br>
+  - Pharma Content Editor and Accound Manager for news feed integrations
+  - Built Excel based analytics and automation for news content feed metrics
+  - **Stack:** Excel Automation
+<br>
 
-**Bold** and _Italic_ and `Code` text
+## 🧰 Skills and Traits
 
-[Link](url) and ![Image](src)
-```
+* Linux
+* Neovim
+* Containers
+* Kubernetes
+* Alacritty
+* Go
+* Scala/sbt
+* Video Tutorials
+* Training
+* CLI
+* nvim-metals
+* Openshift
+* Pathological Tenacity
+* Bemoaning Inefficiencies
+* Avoiding User Interfaces
+* 5am Coffee at a CLI
+* Podman
+* Buildah
+* Comfort with silence
+* Failing Thoughtfully and Often
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 🎓 Education (Traditional)
 
-### Jekyll Themes
+**MBA: Information Systems**<br>
+[Rensselaer Polytechnic Institute](https://www.rpi.edu) - Troy, NY _(Sep 2009 - May 2011)_ <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robbyki/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Bachelor of Arts: English Literature**<br>
+[Florida Atlantic University](https://www.fau.edu/) - Boca Raton, FL _(1999 - 2004)_
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## ⏲️ My Time
+
+* Spending time with family
+* Building, fixing and breaking things
+* Listening to EDM
+* Learning home repair and maintenance
+* Creating technical video tutorials
+* Tennis
+* F45 Fitness
+
+## 🎤 Speaking
+
+* **Galvanize Cognitive Build Faire** _(Oct 2017)_: Workshop on Apache Spark Fundamentals
+    
+## 🏆 Accomplishments
+
+* **IBM Outstanding Achievement Award** (IBM) <br>
+Highest technical award for contributions to data processing platform
+
+* **Scaling FP** (IBM) <br>
+Environment & Framework for cloud deployments & data engineering workloads
+
+* **Jupyter at Weather** (The Weather Channel) <br>
+Introduced and showcased interactive analytics adopted by numerous teams
+
+* **Open Source BI** (Yahoo) <br>
+Built and automated Viz/Tableau ETL
+
+<br><br>
