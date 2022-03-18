@@ -6,7 +6,7 @@ _Software Engineer, Tooling Developer and Communicator passionate about building
 
 ## 🏢 Experience
 
-**Software Developer: Cloud Platfrom Tools @ [IBM](https://www.ibm.com/)** _(May 2016 - Ongoing)_ 
+**Software Developer: Cloud Platform Tools @ [IBM](https://www.ibm.com/)** _(May 2016 - Ongoing)_ 
   - Lead tooling developer, evangelist and architect for marketing ETL jobs
   - Drive decision-making on tooling and architecture for all engineers within Analytics & Insights marketing team
   - Mentored, taught and trained over 30 developers
@@ -41,7 +41,7 @@ _Software Engineer, Tooling Developer and Communicator passionate about building
 <br>
 
 **Technical Content Editor @ [WSJ!](https://www.wsj.com)** _(May 2006 - Oct 2010)_ <br>
-  - Pharma Content Editor and Accound Manager for news feed integrations
+  - Pharma Content Editor and Account Manager for news feed integrations
   - Built Excel based analytics and automation for news content feed metrics
   - **Stack:** Excel Automation
 <br>
@@ -77,7 +77,6 @@ _Software Engineer, Tooling Developer and Communicator passionate about building
 **Bachelor of Arts: English Literature**<br>
 [Florida Atlantic University](https://www.fau.edu/) - Boca Raton, FL _(1999 - 2004)_
 
-
 ## ⏲️ My Time
 
 * Spending time with family
@@ -105,5 +104,3 @@ Introduced and showcased interactive analytics adopted by numerous teams
 
 * **Open Source BI** (Yahoo) <br>
 Built and automated Viz/Tableau ETL
-
-<br><br>
