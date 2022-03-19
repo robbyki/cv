@@ -49,23 +49,18 @@ _Software Engineer, Tooling Developer and Communicator passionate about building
 ## 🧰 Skills and Traits
 
 * Linux
-* Neovim
 * Containers
 * Kubernetes
-* Alacritty
+* Containers
 * Go
 * Scala/sbt
 * Video Tutorials
-* Training
 * CLI
-* nvim-metals
 * Openshift
 * Pathological Tenacity
 * Bemoaning Inefficiencies
 * Avoiding User Interfaces
 * 5am Coffee at a CLI
-* Podman
-* Buildah
 * Comfort with silence
 * Failing Thoughtfully and Often
 
@@ -77,7 +72,7 @@ _Software Engineer, Tooling Developer and Communicator passionate about building
 **Bachelor of Arts: English Literature**<br>
 [Florida Atlantic University](https://www.fau.edu/) - Boca Raton, FL _(1999 - 2004)_
 
-## ⏲️ My Time
+## ⏲️ When I'm not at a Terminal
 
 * Spending time with family
 * Building, fixing and breaking things
