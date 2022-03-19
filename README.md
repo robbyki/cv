@@ -51,7 +51,6 @@ _Software Engineer, Tooling Developer and Communicator passionate about building
 * Linux
 * Containers
 * Kubernetes
-* Containers
 * Go
 * Scala/sbt
 * Video Tutorials
