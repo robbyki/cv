@@ -1,6 +1,6 @@
 ## Robby Kiskanyan
 
-_MBA with more than 15 years of experience in open source environments, leading analytics tooling development and client engagement. Passionate about developer workflows, technical communication, high-performance team dynamics and building things that matter_<br>
+_MBA with more than 15 years of experience in open source environments, leading analytics tooling development and architecting solutions that bring joy to end users. Passionate about developer workflows, technical communication, high-performance team dynamics and building things that matter_<br>
 
 [Email](mailto:robbmk@gmail.com) / [Website](https://robkiskanyan.com/) / [LinkedIn](https://www.linkedin.com/in/robkiskanyan/) / [GitHub](https://github.com/robbyki) / [Twitter](https://twitter.com/robbyki)
 
