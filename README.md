@@ -47,6 +47,7 @@ _Technology Professional with more than 15 years of experience in open source en
 
 ## 🧰 Skills and Traits
 
+* Mentoring
 * Linux
 * Containers
 * Kubernetes
