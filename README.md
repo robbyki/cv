@@ -2,11 +2,11 @@
 
 _Technology Professional with more than 15 years of experience in open source environments, leading tooling development and architecting solutions that bring joy to end-users. Passionate about developer workflows, technical communication, high-performance team dynamics and building things that matter_<br>
 
-[Email](mailto:robbmk@gmail.com) / [Website](https://robkiskanyan.com/) / [LinkedIn](https://www.linkedin.com/in/robkiskanyan/) / [GitHub](https://github.com/robbyki) / [Twitter](https://twitter.com/robbyki)
+[Email](mailto:robbmk@gmail.com) / [LinkedIn](https://www.linkedin.com/in/robkiskanyan/) / [GitHub](https://github.com/robbyki) / [Twitter](https://twitter.com/robbyki)
 
 ## 🏢 Experience
 
-**Software Developer: Cloud Platform Tools @ [IBM](https://www.ibm.com/)** _(May 2016 - Ongoing)_ 
+**Senior Software Developer: Cloud Platform Tools @ [IBM](https://www.ibm.com/)** _(May 2016 - Ongoing)_ 
   - Lead tooling developer, evangelist and architect for marketing ETL jobs
   - Drive decision-making on tooling and architecture for all engineers within Analytics & Insights marketing team
   - Mentored, taught and trained over 30 developers
